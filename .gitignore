@@ -1,0 +1,14 @@
+# Build
+target/
+
+# IDE
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+*.env
+credentials.json
